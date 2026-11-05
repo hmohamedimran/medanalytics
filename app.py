@@ -402,5 +402,3 @@ if df is not None and metadata is not None:
             "An error occurred while rendering the MEDANALYTIX dashboard."
         )
         st.exception(e)
-
-</>
